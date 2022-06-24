@@ -12,3 +12,5 @@
 [🐝 0621 : PostgreSQL-1!](https://velog.io/@soohun9909/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4DB%EC%9D%98-PostgreSQL)
 
 [🐝 0622 : PostgreSQL-2!](https://velog.io/@soohun9909/PostgreSQL-2)
+
+[🦋 0623 : 정적 타이핑 vs 동적 타이핑!](https://velog.io/@soohun9909/%EC%A0%95%EC%A0%81-%ED%83%80%EC%9D%B4%ED%95%91-vs-%EB%8F%99%EC%A0%81-%ED%83%80%EC%9D%B4%ED%95%91)
