@@ -16,3 +16,5 @@
 [🦋 0623 : 정적 타이핑 vs 동적 타이핑!](https://velog.io/@soohun9909/%EC%A0%95%EC%A0%81-%ED%83%80%EC%9D%B4%ED%95%91-vs-%EB%8F%99%EC%A0%81-%ED%83%80%EC%9D%B4%ED%95%91)
 
 [🌿 0628 : HTTP!](https://velog.io/@soohun9909/HTTP-vs-HTTPS)
+
+[🌱 0629 : 트랜잭션!](https://velog.io/@soohun9909/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction)
