@@ -20,3 +20,5 @@
 [🌱 0629 : 트랜잭션!](https://velog.io/@soohun9909/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction)
 
 [🌱 0711 : REST!](https://velog.io/@soohun9909/REST)
+
+[🌱 0712 : REST API!](https://velog.io/@soohun9909/REST-API)
