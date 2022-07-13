@@ -22,3 +22,5 @@
 [🌱 0711 : REST!](https://velog.io/@soohun9909/REST)
 
 [🌱 0712 : REST API!](https://velog.io/@soohun9909/REST-API)
+
+[🦋 0713 : HTTP Method!](https://velog.io/@soohun9909/HTTP-Method)
