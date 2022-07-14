@@ -24,3 +24,5 @@
 [🌱 0712 : REST API!](https://velog.io/@soohun9909/REST-API)
 
 [🦋 0713 : HTTP Method!](https://velog.io/@soohun9909/HTTP-Method)
+
+[🌿 0714 : 클라우딩 서비스!](https://velog.io/@soohun9909/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)
