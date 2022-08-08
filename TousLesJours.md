@@ -30,3 +30,6 @@
 [🌿 0714 : 클라우딩 서비스!](https://velog.io/@soohun9909/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 [🌿 0727 : 파이썬 문자/숫자 확인하기](https://velog.io/@soohun9909/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EB%AC%B8%EC%9E%90%EC%88%AB%EC%9E%90-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+
+## 🌱 2022 8월
+[🌿 0808 : Stack](https://velog.io/@soohun9909/Python-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack)
