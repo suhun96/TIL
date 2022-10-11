@@ -35,3 +35,6 @@
 [🌿 0808 : Stack](https://velog.io/@soohun9909/Python-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack)
 
 [🌱 0808 : IP](https://velog.io/@soohun9909/IP-IPv4-IPv6)
+
+## 🌱 2022 10월
+[🌿 1011 : Proxy](https://velog.io/@soohun9909/Proxy-Forward-Proxy-Reverse-Proxy)
