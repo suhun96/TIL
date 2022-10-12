@@ -38,3 +38,4 @@
 
 ## 🌱 2022 10월
 [🌿 1011 : Proxy](https://velog.io/@soohun9909/Proxy-Forward-Proxy-Reverse-Proxy)
+[🪴 1012 : Transaction isolation level](https://velog.io/@soohun9909/Transaction-lsolation-Level-feat.-MySQL)
