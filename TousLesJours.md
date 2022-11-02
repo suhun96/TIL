@@ -40,3 +40,6 @@
 [🌿 1011 : Proxy](https://velog.io/@soohun9909/Proxy-Forward-Proxy-Reverse-Proxy)
 
 [🪴 1012 : Transaction isolation level](https://velog.io/@soohun9909/Transaction-lsolation-Level-feat.-MySQL)
+
+## 🌱 2022 11월
+[🪵 1102 : Load Balancer](https://velog.io/@soohun9909/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9CLoad-Balancer)
